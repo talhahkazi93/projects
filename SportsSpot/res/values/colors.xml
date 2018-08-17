@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple">#9D70A7</color>
+    <!-- <color name="actionbar_bg">#222222</color> -->
+    <color name="actionbar_bg">#C10A15</color>
+    <color name="app_bg">#5C5C5C</color>
+    <color name="app_blue">#172962</color>
+    <!-- <color name="skyblue">#23B9DE 58bfbd</color> -->
+    <color name="skyblue">#58bfbd</color>
+    <color name="pink">#C91A67</color>
+    <color name="light_black">#888888</color>
+    <color name="light_gray">#D2D2D2</color>
+    <color name="purple2">#9315B2</color>
+    <color name="orange">#EC6E21</color>
+    <color name="red">#900</color>
+    <color name="green">#090</color>
+    <color name="blue">#009</color>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="gray">#eeeeee</color>
+    <color name="red_text_color">#de0000</color>
+    <color name="darker_grey">#555555</color>
+    <color name="darker_pink">#ff2233</color>
+    <color name="app_grey">#5c5c5c</color>
+    <color name="app_cyan">#379cd0</color>
+    <color name="light_blue">#23b9de</color>
+    <color name="blue_action_bar">#6DB7DB</color>
+    <color name="menu_button_bg">#414042</color>
+    <color name="button_bg">#B03A3D</color>
+    <color name="message_text_bg">#A1CD8F</color>
+    <color name="message_text_color">#AF3F3F</color>
+    <color name="transparent_drawer_bg">#80000000</color>
+    <color name="et_bg">#99B3CF9C</color>
+    <color name="signup">#A8B42E</color>
+    <color name="bg_dashboard_row">#DADBDC</color>
+    <color name="calendar_bg">#AF3A3D</color>
+    <color name="calendar_item_bg">#F3F4F4</color>
+    <color name="dialog_appointment_bg">#70AD4A</color>
+    <color name="button_gray_bg">#58595B</color>
+    <color name="locate_therapist_text_bg">#525253</color>
+    <color name="locate_therapist_button_bg">#888687</color>
+    <color name="green_icons">#8DC53E</color>
+    <color name="gray_dashboard">#58595B</color>
+    <color name="tab_color">#A7B32E</color>
+    <color name="tab_bg">#AF3A3D</color>
+    <color name="send_blue">#007AFF</color>
+    <color name="msg_bg">#F8F8F8</color>
+    <color name="msg_received">#B3D4A1</color>
+    <color name="msg_sent">#007AFF</color>
+
+    <!-- Commons -->
+    <color name="background_app">#dedede</color>
+    <color name="background_list_back">#e3e3e3</color>
+    <color name="background_list_front">#ffffff</color>
+    <color name="text_title">#444444</color>
+    <color name="text_description">#7e7e7e</color>
+    <color name="line">#ffbcbcbc</color>
+    <color name="background_new_tag">#ff0000</color>
+    <color name="text_new_tag">#ffffff</color>
+    <color name="wellness_sch_text_color">#70B6DF</color>
+    <color name="light_green">#28A828</color>
+    <color name="wallet_green">#3B863B</color>
+
+</resources>

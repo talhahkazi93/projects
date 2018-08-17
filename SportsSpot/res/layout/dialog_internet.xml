@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/thirty"
+    android:layout_marginRight="@dimen/thirty"
+    android:background="@drawable/button_curved_dialog"
+    android:orientation="vertical"
+    android:padding="@dimen/ten" >
+
+    <TextView
+        android:id="@+id/tv_dialog_intenet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/check_internet"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/eighteen_sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/ten" />
+
+    <LinearLayout
+        android:id="@+id/ll_btns"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="@dimen/one"
+            android:layout_weight="0.075" />
+
+        <Button
+            android:id="@+id/btn_dialog_ok"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/thirtyfive"
+            android:layout_weight="1"
+            android:background="@drawable/button_curved_white"
+            android:text="@string/ok"
+            android:textColor="@color/black" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="@dimen/one"
+            android:layout_weight="0.075" />
+    </LinearLayout>
+
+</LinearLayout>
