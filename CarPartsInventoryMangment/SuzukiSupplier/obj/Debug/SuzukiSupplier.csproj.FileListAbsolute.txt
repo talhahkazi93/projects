@@ -1,0 +1,195 @@
+c:\users\ali mobin\documents\visual studio 2012\Projects\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe.config
+c:\users\ali mobin\documents\visual studio 2012\Projects\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe
+c:\users\ali mobin\documents\visual studio 2012\Projects\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.pdb
+c:\users\ali mobin\documents\visual studio 2012\Projects\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.csprojResolveAssemblyReference.cache
+c:\users\ali mobin\documents\visual studio 2012\Projects\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Form1.resources
+c:\users\ali mobin\documents\visual studio 2012\Projects\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Properties.Resources.resources
+c:\users\ali mobin\documents\visual studio 2012\Projects\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.csproj.GenerateResource.Cache
+c:\users\ali mobin\documents\visual studio 2012\Projects\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.exe
+c:\users\ali mobin\documents\visual studio 2012\Projects\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.pdb
+C:\Users\Ali Mobin\documents\visual studio 2012\Projects\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parts.resources
+C:\Users\Ali Mobin\documents\visual studio 2012\Projects\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parties.resources
+C:\Users\Ali Mobin\documents\visual studio 2012\Projects\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Expense.resources
+C:\Users\Ali Mobin\documents\visual studio 2012\Projects\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Sales.resources
+C:\Users\Ali Mobin\documents\visual studio 2012\Projects\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Purchase.resources
+C:\Users\Ali Mobin\documents\visual studio 2012\Projects\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Store.resources
+C:\Users\Shahrukh\Desktop\New folder\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe.config
+C:\Users\Shahrukh\Desktop\New folder\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe
+C:\Users\Shahrukh\Desktop\New folder\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.pdb
+C:\Users\Shahrukh\Desktop\New folder\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Expense.resources
+C:\Users\Shahrukh\Desktop\New folder\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Form1.resources
+C:\Users\Shahrukh\Desktop\New folder\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmInverntory.resources
+C:\Users\Shahrukh\Desktop\New folder\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parties.resources
+C:\Users\Shahrukh\Desktop\New folder\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parts.resources
+C:\Users\Shahrukh\Desktop\New folder\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Properties.Resources.resources
+C:\Users\Shahrukh\Desktop\New folder\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Purchase.resources
+C:\Users\Shahrukh\Desktop\New folder\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Sell.resources
+C:\Users\Shahrukh\Desktop\New folder\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Sales.resources
+C:\Users\Shahrukh\Desktop\New folder\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Store.resources
+C:\Users\Shahrukh\Desktop\New folder\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.csproj.GenerateResource.Cache
+C:\Users\Shahrukh\Desktop\New folder\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.exe
+C:\Users\Shahrukh\Desktop\New folder\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.pdb
+C:\Users\Ali Mobin\Downloads\SuzukiSupplier (3)\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe.config
+C:\Users\Ali Mobin\Downloads\SuzukiSupplier (3)\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.exe
+C:\Users\Ali Mobin\Downloads\SuzukiSupplier (3)\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.pdb
+C:\Users\Ali Mobin\Downloads\SuzukiSupplier (3)\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe
+C:\Users\Ali Mobin\Downloads\SuzukiSupplier (3)\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.pdb
+C:\Users\Ali Mobin\Downloads\SuzukiSupplier (3)\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.csprojResolveAssemblyReference.cache
+C:\Users\Ali Mobin\Downloads\SuzukiSupplier (3)\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Expense.resources
+C:\Users\Ali Mobin\Downloads\SuzukiSupplier (3)\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Form1.resources
+C:\Users\Ali Mobin\Downloads\SuzukiSupplier (3)\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmInverntory.resources
+C:\Users\Ali Mobin\Downloads\SuzukiSupplier (3)\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parties.resources
+C:\Users\Ali Mobin\Downloads\SuzukiSupplier (3)\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parts.resources
+C:\Users\Ali Mobin\Downloads\SuzukiSupplier (3)\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Properties.Resources.resources
+C:\Users\Ali Mobin\Downloads\SuzukiSupplier (3)\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Purchase.resources
+C:\Users\Ali Mobin\Downloads\SuzukiSupplier (3)\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Sell.resources
+C:\Users\Ali Mobin\Downloads\SuzukiSupplier (3)\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Sales.resources
+C:\Users\Ali Mobin\Downloads\SuzukiSupplier (3)\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Store.resources
+C:\Users\Ali Mobin\Downloads\SuzukiSupplier (3)\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.csproj.GenerateResource.Cache
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe.config
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.exe
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.pdb
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.pdb
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.csprojResolveAssemblyReference.cache
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Expense.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Form1.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmInverntory.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parties.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parts.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Properties.Resources.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Purchase.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Sell.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Sales.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Store.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.csproj.GenerateResource.Cache
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe.config
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.exe
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.pdb
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\bin\Debug\SuzukiSupplier.pdb
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.csprojResolveAssemblyReference.cache
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Expense.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Form1.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmInverntory.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parties.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parts.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Properties.Resources.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Purchase.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Sell.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Sales.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Store.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.csproj.GenerateResource.Cache
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe.config
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.exe
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.pdb
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\bin\Debug\SuzukiSupplier.pdb
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.csprojResolveAssemblyReference.cache
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Expense.resources
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Form1.resources
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmDebt.resources
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmInverntory.resources
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parties.resources
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parts.resources
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Properties.Resources.resources
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Purchase.resources
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Sales.resources
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Sell.resources
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Store.resources
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.csproj.GenerateResource.Cache
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmDebt.resources
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmDebtDetails.resources
+C:\Users\Shahrukh\Desktop\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmShowDebts.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.csprojResolveAssemblyReference.cache
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Expense.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Form1.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmDebt.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmDebtDetails.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmInverntory.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmShowDebts.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmTest.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parties.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parts.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Properties.Resources.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Purchase.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Sales.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Sell.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.Store.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.csproj.GenerateResource.Cache
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\RdlCompile.cache
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\RdlCompile.compiled
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe.config
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\bin\Debug\SuzukiSupplier.pdb
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.exe
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier(final)\SuzukiSupplier\obj\Debug\SuzukiSupplier.pdb
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe.config
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.exe
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.pdb
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.pdb
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.csprojResolveAssemblyReference.cache
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Expense.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Form1.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmDebt.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmDebtAddPayment.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmDebtDetails.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmInverntory.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmrptMonthlyAccountingDetails.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmPayDebt.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmShiftParts.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmShiftPartsToShop.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmShowDebts.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parties.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parts.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Properties.Resources.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Purchase.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Sales.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Sell.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Store.resources
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.csproj.GenerateResource.Cache
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\RdlCompile.cache
+C:\Users\1112135\Desktop\SE\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\RdlCompile.compiled
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe.config
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.pdb
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Expense.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Form1.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmDebt.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmDebtAddPayment.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmDebtDetails.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmInverntory.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmrptMonthlyAccountingDetails.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmPayDebt.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmShiftParts.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmShiftPartsToShop.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmShowDebts.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parties.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Parts.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Properties.Resources.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Purchase.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Sales.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Sell.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.Store.resources
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.csproj.GenerateResource.Cache
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\RdlCompile.cache
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\RdlCompile.compiled
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.exe
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.pdb
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.csprojResolveAssemblyReference.cache
+C:\Users\Shahrukh\Desktop\New folder\Ali\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmShowStockAlert.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmDebt.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmDebtAddPayment.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmDebtDetails.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmrptMonthlyAccountingDetails.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmPayDebt.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmShiftParts.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmShiftPartsToShop.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmShowDebts.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.frmShowStockAlert.resources
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\RdlCompile.cache
+C:\Users\Ali Mobin\Desktop\SuzukiSupplier\SuzukiSupplier\obj\Debug\RdlCompile.compiled
+C:\Users\kazI\Desktop\C# Project\SuzukiSupplier\SuzukiSupplier\bin\Debug\SuzukiSupplier.exe.config
+C:\Users\kazI\Desktop\C# Project\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.exe
+C:\Users\kazI\Desktop\C# Project\SuzukiSupplier\SuzukiSupplier\obj\Debug\SuzukiSupplier.pdb

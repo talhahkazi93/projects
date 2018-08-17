@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{17DFFC8D-4484-436C-A12D-A839E0997BC9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SuzukiSupplier</RootNamespace>
+    <AssemblyName>SuzukiSupplier</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="APIDataSet.cs">
+      <DependentUpon>APIDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="APIDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>APIDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="APIv2DataSet.cs">
+      <DependentUpon>APIv2DataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="APIv2DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>APIv2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Connection.cs" />
+    <Compile Include="DAL\DebtDao.cs" />
+    <Compile Include="DAL\ExpenseDao.cs" />
+    <Compile Include="DAL\PurchaseDao.cs" />
+    <Compile Include="DAL\SellDao.cs" />
+    <Compile Include="DAL\StoreDao.cs" />
+    <Compile Include="Expense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Expense.Designer.cs">
+      <DependentUpon>Expense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDebt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDebt.Designer.cs">
+      <DependentUpon>frmDebt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDebtAddPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDebtAddPayment.Designer.cs">
+      <DependentUpon>frmDebtAddPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDebtDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDebtDetails.Designer.cs">
+      <DependentUpon>frmDebtDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInverntory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInverntory.Designer.cs">
+      <DependentUpon>frmInverntory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmrptMonthlyAccountingDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmrptMonthlyAccountingDetails.Designer.cs">
+      <DependentUpon>frmrptMonthlyAccountingDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPayDebt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPayDebt.Designer.cs">
+      <DependentUpon>frmPayDebt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmShiftParts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShiftParts.Designer.cs">
+      <DependentUpon>frmShiftParts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmShiftPartsToShop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShiftPartsToShop.Designer.cs">
+      <DependentUpon>frmShiftPartsToShop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmShowDebts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShowDebts.Designer.cs">
+      <DependentUpon>frmShowDebts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmShowStockAlert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShowStockAlert.Designer.cs">
+      <DependentUpon>frmShowStockAlert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parties.Designer.cs">
+      <DependentUpon>Parties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parts.Designer.cs">
+      <DependentUpon>Parts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Purchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Purchase.Designer.cs">
+      <DependentUpon>Purchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sales.Designer.cs">
+      <DependentUpon>Sales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sell.Designer.cs">
+      <DependentUpon>Sell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Store.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Store.Designer.cs">
+      <DependentUpon>Store.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Expense.resx">
+      <DependentUpon>Expense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDebt.resx">
+      <DependentUpon>frmDebt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDebtAddPayment.resx">
+      <DependentUpon>frmDebtAddPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDebtDetails.resx">
+      <DependentUpon>frmDebtDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInverntory.resx">
+      <DependentUpon>frmInverntory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmrptMonthlyAccountingDetails.resx">
+      <DependentUpon>frmrptMonthlyAccountingDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPayDebt.resx">
+      <DependentUpon>frmPayDebt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShiftParts.resx">
+      <DependentUpon>frmShiftParts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShiftPartsToShop.resx">
+      <DependentUpon>frmShiftPartsToShop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShowDebts.resx">
+      <DependentUpon>frmShowDebts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShowStockAlert.resx">
+      <DependentUpon>frmShowStockAlert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parties.resx">
+      <DependentUpon>Parties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parts.resx">
+      <DependentUpon>Parts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Purchase.resx">
+      <DependentUpon>Purchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sales.resx">
+      <DependentUpon>Sales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Sell.resx">
+      <DependentUpon>Sell.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store.resx">
+      <DependentUpon>Store.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="APIDataSet.xsc">
+      <DependentUpon>APIDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="APIDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>APIDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="APIDataSet.xss">
+      <DependentUpon>APIDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="APIv2DataSet.xsc">
+      <DependentUpon>APIv2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="APIv2DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>APIv2DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="APIv2DataSet.xss">
+      <DependentUpon>APIv2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1400190576_10530.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1400190576_105301.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Budget.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inventory-Maintenance.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange-Bag.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Store.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
