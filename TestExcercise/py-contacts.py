@@ -1,5 +1,3 @@
-__author__ = "Talhah Raza Kazi(talha_kazi3@hotmail.com)"
-
 import sys
 import os
 import argparse
@@ -72,6 +70,6 @@ def main():
 
 	args = parser.parse_args()
 	argparser(args)
-	
+
 if __name__ == '__main__':
 	main()
