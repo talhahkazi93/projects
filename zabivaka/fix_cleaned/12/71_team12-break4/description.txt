@@ -1,0 +1,9 @@
+The specification says, regarding card file names:
+"""
+(each character should match /[_\-\.0-9a-z]/)
+"""
+
+Thus an card file name of "-c" should be valid, at least if passed like "-c-c" so it cannot be mistaken as an flag.
+This implementation however rejects it (during the deposit operation). This is a bug.
+
+

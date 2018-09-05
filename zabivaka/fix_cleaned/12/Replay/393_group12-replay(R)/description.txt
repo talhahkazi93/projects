@@ -1,0 +1,3 @@
+The content of the JSON returned by the server is not checked.
+By sending an old message of the server back, the ATM prints the wrong output.
+It should check if the output matches the actual request.

@@ -1,0 +1,12 @@
+de/upb/cs/bibifi/commons/dto/CreationResponse.class
+de/upb/cs/bibifi/commons/constants/SharedConstants.class
+de/upb/cs/bibifi/commons/validator/Validator.class
+de/upb/cs/bibifi/commons/dto/TransmissionPacket.class
+de/upb/cs/bibifi/commons/validator/InputPatternChecker.class
+de/upb/cs/bibifi/commons/constants/AppConstants.class
+de/upb/cs/bibifi/commons/dto/Response.class
+de/upb/cs/bibifi/commons/IEncryption.class
+de/upb/cs/bibifi/commons/impl/EncryptionImpl.class
+de/upb/cs/bibifi/commons/data/AuthFile.class
+de/upb/cs/bibifi/commons/enums/RequestType.class
+de/upb/cs/bibifi/commons/impl/Utilities.class

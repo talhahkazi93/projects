@@ -1,0 +1,5 @@
+{
+    "type": "correctness",
+    "target_team": 9,
+    "inputs":[ {"input":["-p", "10\24", "-i", "%IP%", "-a", "qwer", "-n", "34.23"],"base64":false}]
+}

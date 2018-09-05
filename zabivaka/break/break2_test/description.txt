@@ -1,0 +1,1 @@
+Bank gives "protocol_error" while specifiying duplicate account names but with a new card file name. 

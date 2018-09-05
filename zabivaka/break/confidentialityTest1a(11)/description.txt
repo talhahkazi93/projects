@@ -1,0 +1,1 @@
+While creating new account, decrypted message and changed amount in it.

@@ -1,0 +1,2 @@
+Your server listens only on 127.0.0.1. So the ATM isn't able to connect if the bank tuns on another computer.
+I choose 127.0.0.2 for the but because it is an alternative name for localhost and the automated build server runs on localhost only.

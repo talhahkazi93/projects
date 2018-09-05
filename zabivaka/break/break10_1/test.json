@@ -1,0 +1,6 @@
+{
+    "type": "correctness",
+    "target_team": 10,
+    "inputs": [{"input":["-a", "aliz.c", "-c", "aliz.c..card","-d", "100.00"],"base64":false}]
+}
+

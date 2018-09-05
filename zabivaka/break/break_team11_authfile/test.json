@@ -1,0 +1,9 @@
+{
+    "type": "integrity",
+    "target_team": 11,
+    "inputs": [
+        {"input":["-p", "%PORT%", "-i", "%IP%", "-a", "ted", "-c", "tedd.card", "-s", "bank.auth","-n", "10.30"],"base64":false},
+        {"input":["-p", "%PORT%", "-i", "%IP%", "-a", "tedd", "-c", "tedd1.card", "-s", "bank1.auth", "-d", "10.30"],"base64":false}
+        
+    ]
+}

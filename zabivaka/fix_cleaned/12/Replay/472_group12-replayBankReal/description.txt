@@ -1,0 +1,2 @@
+The content of the JSON received by the bank is not checked for a replay attack.
+By sending an old request from the atm (instead of the actual request) to the server, the server does the old operation again.

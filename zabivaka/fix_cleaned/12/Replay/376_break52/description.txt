@@ -1,0 +1,16 @@
+This is a integrity break implementation.
+
+The attack is done by replaying a previously saved request.
+
+By logging all communication between bank and atm, a pattern was observed, i.e.,
+- atm send command to bank
+- bank sends response message to atm 
+
+
+Steps to produce
+
+1. Atm sends -a ted -n 2000.00 to Bank via MITM.
+2. Atm sends -a ted -w 500.00 to Bank via MITM. (MITM saves this command along with the atm confirmation).
+3. MITM sends the saved command and confirmation to the Bank without involving ATM.
+
+As a result, ted remaining balance is 1000.00 instead of 1500,00

@@ -1,0 +1,2 @@
+The parameter -h is not allowed at the ATM and it should exit with exit code 255 and no output on stdout.
+Instead it prints the help on stdout and exits with code 0.

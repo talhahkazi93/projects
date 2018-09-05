@@ -1,0 +1,14 @@
+The specification says, regarding port numbers:
+"""
+Ports are specified as numbers between 1024 and 65535 inclusively
+"""
+
+Thus the port 1024 should not trigger an input error, but it does.
+The bug is in validator.py:
+#   Check for valid port
+def checkPort(port):
+    return bool(portNumber.match(str(port)) and 1024 < int(port) <= 65535)
+
+it should say <= instead of <
+
+

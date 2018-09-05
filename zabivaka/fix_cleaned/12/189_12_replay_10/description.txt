@@ -1,0 +1,3 @@
+The bank does not check for replayed requests.
+
+This test records a withdraw transaction and plays it back resulting in a successful second withdraw.

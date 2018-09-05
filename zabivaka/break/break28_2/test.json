@@ -1,0 +1,10 @@
+{
+    "type": "correctness",
+    "target_team": 6,
+    "inputs": [{"input":["-p", "1024.0", "-i", "%IP%", "-a", "tedsd", "-n", "100.20"],"base64":false}]
+}
+
+
+
+
+

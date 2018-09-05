@@ -1,0 +1,13 @@
+de/upb/cs/bibifi/bankapp/bank/impl/ServerProcessor.class
+de/upb/cs/bibifi/bankapp/bank/impl/Server$1.class
+de/upb/cs/bibifi/bankapp/bank/impl/Server.class
+de/upb/cs/bibifi/bankapp/bank/IBank.class
+de/upb/cs/bibifi/bankapp/data/Account.class
+de/upb/cs/bibifi/bankapp/bank/impl/ServerProcessor$1.class
+de/upb/cs/bibifi/bankapp/bank/IAuthFileContentGenerator.class
+de/upb/cs/bibifi/bankapp/bank/IServerProcessor.class
+de/upb/cs/bibifi/bankapp/bank/IServer.class
+de/upb/cs/bibifi/bankapp/bank/impl/Server$ShutdownHook.class
+de/upb/cs/bibifi/bankapp/bank/impl/Bank.class
+de/upb/cs/bibifi/bankapp/bank/impl/Bank$1.class
+de/upb/cs/bibifi/bankapp/bank/impl/AuthFileContentGeneratorImpl.class

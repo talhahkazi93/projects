@@ -1,0 +1,1 @@
+The atm does not accept the account name "--" which should be accepted

@@ -1,0 +1,1 @@
+Confidentiality test, set dynamic variable for account and sent it to command server.

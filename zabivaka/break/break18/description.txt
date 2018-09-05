@@ -1,0 +1,1 @@
+bank gives protocol error for invalid auth file

@@ -1,0 +1,2 @@
+It should be possible to name the card the same as the user, but duplications
+of any kind are not permitted at the ATM.

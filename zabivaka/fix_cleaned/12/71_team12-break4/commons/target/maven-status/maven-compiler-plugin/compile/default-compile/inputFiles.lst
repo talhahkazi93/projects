@@ -1,0 +1,12 @@
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/commons/src/main/java/de/upb/cs/bibifi/commons/constants/AppConstants.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/commons/src/main/java/de/upb/cs/bibifi/commons/constants/SharedConstants.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/commons/src/main/java/de/upb/cs/bibifi/commons/IEncryption.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/commons/src/main/java/de/upb/cs/bibifi/commons/dto/CreationResponse.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/commons/src/main/java/de/upb/cs/bibifi/commons/validator/InputPatternChecker.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/commons/src/main/java/de/upb/cs/bibifi/commons/data/AuthFile.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/commons/src/main/java/de/upb/cs/bibifi/commons/dto/Response.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/commons/src/main/java/de/upb/cs/bibifi/commons/impl/EncryptionImpl.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/commons/src/main/java/de/upb/cs/bibifi/commons/enums/RequestType.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/commons/src/main/java/de/upb/cs/bibifi/commons/impl/Utilities.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/commons/src/main/java/de/upb/cs/bibifi/commons/validator/Validator.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/commons/src/main/java/de/upb/cs/bibifi/commons/dto/TransmissionPacket.java

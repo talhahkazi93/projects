@@ -1,0 +1,1 @@
+Atm creates acounts even when using different auth files. Auth file in bank accept invalid characters.

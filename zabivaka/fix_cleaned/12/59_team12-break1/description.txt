@@ -1,0 +1,8 @@
+The specification says:
+"""
+Arguments must not be provided more than once in a single invocation.
+"""
+
+However the option "-g" is passed twice in this test. This should not be accepted, but it is. This is a bug.
+
+

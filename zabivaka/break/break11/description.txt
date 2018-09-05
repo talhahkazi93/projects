@@ -1,0 +1,1 @@
+**.auth can be used as valid auth file

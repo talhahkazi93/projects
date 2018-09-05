@@ -1,0 +1,9 @@
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/bankapp/src/main/java/de/upb/cs/bibifi/bankapp/bank/IServer.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/bankapp/src/main/java/de/upb/cs/bibifi/bankapp/bank/IBank.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/bankapp/src/main/java/de/upb/cs/bibifi/bankapp/bank/IServerProcessor.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/bankapp/src/main/java/de/upb/cs/bibifi/bankapp/bank/impl/Server.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/bankapp/src/main/java/de/upb/cs/bibifi/bankapp/bank/IAuthFileContentGenerator.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/bankapp/src/main/java/de/upb/cs/bibifi/bankapp/data/Account.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/bankapp/src/main/java/de/upb/cs/bibifi/bankapp/bank/impl/AuthFileContentGeneratorImpl.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/bankapp/src/main/java/de/upb/cs/bibifi/bankapp/bank/impl/ServerProcessor.java
+/home/swante/ownCloud/upb/build-break-fix/BiBiFi_Build/others/17/build/bankapp/src/main/java/de/upb/cs/bibifi/bankapp/bank/impl/Bank.java

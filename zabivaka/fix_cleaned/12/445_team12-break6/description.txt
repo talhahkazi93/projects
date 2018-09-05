@@ -1,0 +1,7 @@
+The specification says, regarding file names:
+"""
+File names are restricted to underscores, hyphens, dots, digits, and lowercase alphabetical characters (each character should match /[_\-\.0-9a-z]/). File names are to be between 1 and 127 characters long. The special file names "." and ".." are not allowed.
+"""
+
+Thus "..." should be allowed as a card file name.
+However "..." does not work as a card file name here. This is a bug.

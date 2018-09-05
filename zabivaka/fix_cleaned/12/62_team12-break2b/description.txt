@@ -1,0 +1,9 @@
+The specification says, regarding account names:
+"""
+(each character should match /[_\-\.0-9a-z]/)
+"""
+
+Thus an account name of "--" should be valid, at least if passed like "-a--" so it cannot be mistaken as an flag.
+This implementation however rejects it. This is a bug.
+
+

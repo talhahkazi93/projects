@@ -1,0 +1,7 @@
+{
+    "type": "correctness",
+    "target_team": 12,
+    "inputs": [
+	{"input":["-p", "1024", "-a", "ted5", "-n", "100.00"]}
+    ]
+}

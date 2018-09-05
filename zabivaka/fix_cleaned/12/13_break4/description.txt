@@ -1,0 +1,16 @@
+This is the first completness test.
+Account should be created if atm provides same account name and card name (i.e -a martin and -c martin), 
+but implemenation of group zabivaka (group id-12) fails to do so.
+
+In this test i am simply trying to create an account with same aaccount name and card file name.
+
+[ {"input":["-p", "%PORT%", "-i", "%IP%", "-a", "martin", "-c", "martin", "-n", "10.30"],"base64":false}]
+
+Oracle Output is exit code '0' with account created but this implementation fails with error 255.
+
+This error is happening because zabivaka implementation tries to look for duplicate input fields
+which also catches same account and card file names as duplicate entry which is false so this is a completness bug.
+Duplication error is thrown when ever user gives same valeus for different input flags (i,e -a 'same_value' and -c 'same_value').
+
+Possible problem can be found at the line number 102 of atm.py file given for zabivaka groups's implementation.
+The logic for duplication in input flags should be different then that written in atm.py line 102.

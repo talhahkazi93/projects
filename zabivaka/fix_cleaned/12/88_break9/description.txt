@@ -1,0 +1,5 @@
+This is the first completness test.
+This test case checks the duplicate param inputs on -g and -ga flag which should return 
+error code 255 but group 12's implementation gives sucess on this test case.
+
+There is no implementation for checking  duplicate params entry.
